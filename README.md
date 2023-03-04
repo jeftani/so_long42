@@ -35,3 +35,8 @@ MinilibX provides a basic set of functions for drawing simple graphics, such as 
 MinilibX supports both MacOS and Linux platforms, although the installation process may vary slightly between the two. On MacOS, MinilibX can be installed using Homebrew, while on Linux, it may need to be compiled from source.
 
 Overall, MinilibX is a useful library for learning the basics of graphics programming and is a good choice for small projects and educational environments.
+
+
+a video of my game .
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WAGtZGg_RKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
