@@ -39,5 +39,5 @@ Overall, MinilibX is a useful library for learning the basics of graphics progra
 
 a video of my game .
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WAGtZGg_RKo" frameborder="0" allowfullscreen></iframe>
+
 
